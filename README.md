@@ -1,4 +1,4 @@
-# Epoca – Time Tracking & Reporting System (NDA Project)
+# Time Tracking & Reporting System (NDA Project)
 
 **Note:** This is a portfolio overview of a commercial project developed under NDA. The source code is not publicly available.
 
