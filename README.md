@@ -10,7 +10,7 @@ This project was developed for a corporate client in a B2B setting.
 
 ## 👨‍💻 My Role
 
-I worked as the **sole frontend developer** on this project for approximately 10 months. My responsibilities included:
+I worked as the **sole frontend developer** on this project for approximately 6 months. My responsibilities included:
 
 - Designing the architecture of the frontend from scratch using **React 18 + TypeScript**
 - Creating a dynamic UI for tracking and editing time entries
@@ -22,6 +22,7 @@ I worked as the **sole frontend developer** on this project for approximately 10
 - Developing reusable UI components with attention to accessibility and performance
 - Writing **unit and e2e tests** using Testing Library and Playwright
 - Maintaining a consistent and clean codebase using **ESLint, Prettier, and Husky hooks**
+- **Working without a complete design specification** – many UI/UX decisions were made independently based on direct user testing and feedback
 
 ## 🛠️ Tech Stack
 
