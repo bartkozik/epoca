@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-**Epoca** is a professional web-based system for tracking, managing, and reporting working hours. It was designed to help teams and managers monitor time allocation across projects, analyze productivity, and generate insightful reports for internal and external stakeholders.
+**Time Tracking** is a professional web-based system for tracking, managing, and reporting working hours. It was designed to help teams and managers monitor time allocation across projects, analyze productivity, and generate insightful reports for internal and external stakeholders.
 
 This project was developed for a corporate client in a B2B setting.
 
