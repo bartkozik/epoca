@@ -23,6 +23,8 @@ I worked as the **sole frontend developer** on this project for approximately 6 
 - Writing **unit and e2e tests** using Testing Library and Playwright
 - Maintaining a consistent and clean codebase using **ESLint, Prettier, and Husky hooks**
 - **Working without a complete design specification** – many UI/UX decisions were made independently based on direct user testing and feedback
+  
+- Throughout the development, I worked closely with backend developers and testers, ensuring smooth data synchronization and form behavior. Communication played a crucial role, especially during regular sprint reviews and backlog refinements held in Agile teams managed via Jira. Despite the lack of complete design specs, I frequently collaborated with stakeholders to clarify expectations and adjust the UI accordingly. I used Figma as a reference point and relied on solid time management to balance delivery and refinement cycles.
 
 ## 🛠️ Tech Stack
 
